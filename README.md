@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:111827,100:1F2937&height=260&section=header&text=Pritam&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:0B1026,100:111827&text=Pritam&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=45"/>
 
 <br>
 
@@ -8,7 +8,11 @@
 
 <br><br>
 
-<img width="500" src="https://svg-banners.vercel.app/api?type=origin&text1=Creative%20Developer&width=800&height=400" />
+<img width="420" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<br><br>
+
+<img width="420" src="https://user-images.githubusercontent.com/74038190/240885247-41371a2d-47bc-412f-8bfc-d7284a834285.gif" />
 
 </div>
 
@@ -18,7 +22,7 @@
 
 ### ⚡ Learning and building modern web experiences
 
-### 🌌 Interested in clean UI, backend & creative development
+### 🌌 Interested in frontend, backend & creative UI
 
 ### 🚀 Improving skills one project at a time
 
@@ -56,6 +60,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:111827,100:1F2937&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:111827&height=120&section=footer"/>
 
 </div>
