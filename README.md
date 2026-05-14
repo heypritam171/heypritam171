@@ -17,20 +17,22 @@
 
 # 🛠 Currently Learning
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=transparent&hide_border=true" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
 
 ---
 
 # 📈 GitHub Journey
 
-[<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=tokyonight" />
-</p>](https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=transparent&hide_border=true)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ “Start before you feel ready.”
+### ✨ Start before you feel ready.
 
 </div>
