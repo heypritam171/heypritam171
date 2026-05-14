@@ -1,6 +1,7 @@
+<img align="right" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 # Hi 👋 I'm Pritam
 
-🚀 Frontend Developer  
+🚀 Frontend Developer 
 🎨 Love Animated Websites  
 ⚛️ Learning React & Tailwind CSS  
 
