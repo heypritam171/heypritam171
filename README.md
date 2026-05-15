@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:0B1026,100:111827&text=Pritam&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="./banner.png" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3CExploring+Modern+Web+Development%2F%3E;%3CBuilding+Creative+Projects%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E" />
 
 <br><br>
 
 <img width="420" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
-
-<img width="420" src="https://user-images.githubusercontent.com/74038190/240885247-41371a2d-47bc-412f-8bfc-d7284a834285.gif" />
 
 </div>
 
@@ -50,9 +46,21 @@
 
 ---
 
+# 🌐 Connect With Me
+
 <div align="center">
 
-### ✦ Learn • Create • Improve
+<a href="https://github.com/heypritam171">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Learn • Build • Create • Repeat
 
 </div>
 
