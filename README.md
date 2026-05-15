@@ -40,9 +40,29 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=transparent&hide_border=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:111827&text=Pritam&fontSize=70&fontColor=38BDF8&animation=twinkling&fontAlignY=40"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%3CBuilding+Creative+Web+Experiences%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E;%3CCrafting+Cool+Things+With+Code%2F%3E" />
 
 </div>
+
+---
+
+# 🧠 Digital Workspace
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│ STATUS                                       │
+├──────────────────────────────────────────────┤
+│ 🟢 Learning React & Backend                  │
+│ 🟢 Building modern UI projects               │
+│ 🟢 Exploring creative web animations         │
+│ 🟢 Turning ideas into interactive websites   │
+└──────────────────────────────────────────────┘
 
 ---
 
